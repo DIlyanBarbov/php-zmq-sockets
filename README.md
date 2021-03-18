@@ -17,5 +17,8 @@ Overview:
 4. After checking it returns a response to the client.
 5. Client gets notified if requested data exists or not.
 
-
 https://zguide.zeromq.org/
+Possible extensions:
+1. Creating a new file
+2. Active hash and dehash for md5 and sha512
+3. Using certification to protect from network attacks.
